@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://tugboatlabs.dev"
 languageCode = "en"
 
 title = "Tugboat Labs"
@@ -43,10 +43,10 @@ theme = ["hyde-hyde", "hyde-hyde-modified"]
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
+    github = "dstrebel"
     linkedin = "<username>"
-    twitter = "<username>"
-    email = "your-email@example.com"
+    twitter = "#dave_strebel"
+    email = "strebeld@gmail.com"
     # gravatar = "your-email@example.com"
 
 ## Main Menu
