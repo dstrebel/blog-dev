@@ -16,7 +16,7 @@ theme = ["hyde-hyde", "hyde-hyde-modified"]
 
 ## Site Settings
 [params]
-    themeColor = "theme-base-09"
+    themeColor = "theme-base-0d"
     author = "Dave Strebel"
     title = "Tugboat Labs"
     # description = "..."
