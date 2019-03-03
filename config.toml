@@ -6,8 +6,8 @@ title = "Tugboat Labs"
 theme = ["hyde-hyde", "hyde-hyde-modified"]
 
 ## Hugo Built-in Features
-# disqusShortname = "your-disqus-shortname"
-# googleAnalytics = "your-google-analytics-id"
+disqusShortname = "tugboatlabs-dev"
+googleAnalytics = "UA-135463566-1"
 # enableRobotsTXT = true
 
 # summarylength = 30
@@ -20,7 +20,7 @@ theme = ["hyde-hyde", "hyde-hyde-modified"]
     author = "Dave Strebel"
     title = "Tugboat Labs"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "/img/tugboatlabs.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
@@ -45,7 +45,7 @@ theme = ["hyde-hyde", "hyde-hyde-modified"]
 ## Social Accounts
 [params.social]
     github = "dstrebel"
-    linkedin = "<username>"
+    linkedin = "dave-strebel"
     twitter = "#dave_strebel"
     email = "strebeld@gmail.com"
     # gravatar = "your-email@example.com"
